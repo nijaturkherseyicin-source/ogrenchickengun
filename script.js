@@ -181,3 +181,4 @@ function yorumuGonder(isim) {
         input.value = "";
     }
 }
+
